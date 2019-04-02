@@ -1,5 +1,4 @@
-// ConsoleApplication2.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem
 
 #include "pch.h"
 #include <iostream>
