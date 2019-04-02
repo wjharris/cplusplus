@@ -88,10 +88,10 @@ void LRUCache::set(int key, int value)
 		cout << "(" << currentNode->key << ":" << currentNode->value << ")";
 		currentNode = currentNode->next;
 		if (currentNode != NULL) {
-			cout << endl;
+			cout << ", ";
 		}
 	}
-	cout << "\n";
+	cout << endl;
 	
 }
 
